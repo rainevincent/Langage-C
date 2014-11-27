@@ -1,0 +1,14 @@
+##
+## Conf file for 42sh
+##
+## Syntax : var=value
+##
+##
+## alias=path
+## history=path
+##
+##
+
+alias=.mabm_alias
+history=mabm_heaezeazeistory
+prompt=1
