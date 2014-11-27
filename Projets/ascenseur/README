@@ -1,0 +1,27 @@
+LANGAGE C : Structures de données
+
+===================================================================================================================================
+
+PROJET : Simulation d'ascenseurs 
+
+CONTEXTE : Mini projet de cours sur le langage C
+
+SUJET :
+
+Vous devez réaliser un programme qui simule une partie du fonctionnement d’un bloc d’ascenseurs composé de 6 ascenseurs,  selon la spécification ci-dessous.
+Les ascenseurs se trouvent dans un grand centre commercial composé de 1 à 6 étages des magasins et 5 sous-sols avec les parkings. 
+
+Les étages sont numérotés de 0 (rez-de-chaussée) à 15 (dernier étage) et de 
+- 1 à 5 pour les parkings.
+
+Tous les ascenseurs peuvent desservir tous les étages.
+Nous considérons l’étage 0 comme l’étage de départ de tous les ascenseurs.
+
+Plus de détail dans le fichier "sujet.docx"
+
+NOTES: 
+
+- Pour compiler le programme: tapez la commande "make" dans un terminal (console)
+- Pour l'exécuter une fois compilé, double cliquer sur l'excutable créer (par default "ascenceurs")
+
+===================================================================================================================================
