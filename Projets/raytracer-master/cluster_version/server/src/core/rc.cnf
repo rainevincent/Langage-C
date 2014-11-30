@@ -1,0 +1,5 @@
+style "window"
+{
+  bg[NORMAL] = { 0.0, 0.0, 0.0 }
+}
+widget_class "GtkWindow" style "window"
